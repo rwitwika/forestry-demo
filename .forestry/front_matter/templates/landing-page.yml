@@ -12,11 +12,11 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Rwitwika Bhattacharya Agarwal
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: ''
 - type: file
   name: banner_image
   label: Hero Image
@@ -79,4 +79,4 @@ fields:
   hidden: true
   default: home
 pages:
-- index.md
+- _pages/index.md
