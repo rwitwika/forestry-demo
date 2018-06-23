@@ -20,3 +20,6 @@ menu:
     url: "/"
     weight: 1
 ---
+Welcome to my page.
+
+This website contains some of my musings.
