@@ -79,4 +79,4 @@ fields:
   hidden: true
   default: home
 pages:
-- _pages/index.md
+- index.md
